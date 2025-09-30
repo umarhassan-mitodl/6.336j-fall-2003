@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Numerical Simulation"
+    ]
+  ],
+  "legacy_uid": "ec4c4581-415a-3e20-bdcb-22ef66ae3032",
+  "instructors": {
+    "content": [
+      "81a7b7fc-4d59-9533-8cef-a77565f79073",
+      "2b7a8e3c-6e84-0a28-9642-458eb9d23fb1",
+      "0b81cd94-dd2b-2480-31b3-3194fd029a62",
+      "6bb6a91a-b32b-3616-b775-d67ff3e50df9",
+      "653cc2b5-6561-2bd7-22a3-610d7399dabd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2f9f6087-20e7-c408-76ad-3dcf8218c28a",
+    "website": "6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003"
+  },
+  "course_title": "Introduction to Numerical Simulation (SMA 5211)",
+  "hide_download": true,
+  "course_description": "6.336J is an introduction to computational techniques for the simulation of a large variety of engineering and physical systems. Applications are drawn from aerospace, mechanical, electrical, chemical and biological engineering, and materials science. Topics include: mathematical formulations; network problems; sparse direct and iterative matrix solution techniques; Newton methods for nonlinear problems; discretization methods for ordinary, time-periodic and partial differential equations, fast methods for partial differential and integral equations, techniques for dynamical system model reduction and approaches for molecular dynamics.\n\nThis course was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5211 (Introduction to Numerical Simulation).\n",
+  "department_numbers": [
+    "6",
+    "2",
+    "16"
+  ],
+  "extra_course_numbers": "2.096J,16.910J",
+  "primary_course_number": "6.336J",
+  "course_image_thumbnail": {
+    "content": "0cf11e45-ad02-a2af-cb88-a709e1417325",
+    "website": "6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "cdabd8d4-2c22-4bc4-aec3-46b479174460",
+  "site_short_id": "6.336j-fall-2003",
+  "site_url_path": "courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003",
+  "title": "Course Metadata"
+}
